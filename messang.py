@@ -1,0 +1,1 @@
+MSG_WELLCOME_MISTER= 'Welcome, Mr. {name} {other}!'
